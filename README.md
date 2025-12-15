@@ -40,10 +40,9 @@ The landing page is optimized for conversions by:
 ## 📁 Project Structure
 
 landing-page/
-│
-├── index.html
-├── style.css
-└── script.js
+  |__ index.html
+  |__ style.css
+  |__ script.js
 
 ---
 
