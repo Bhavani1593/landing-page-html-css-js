@@ -37,15 +37,6 @@ The landing page is optimized for conversions by:
 
 ---
 
-## 📁 Project Structure
-
-landing-page/
-  |__ index.html
-  |__ style.css
-  |__ script.js
-
----
-
 ## 📷 Preview
 
 You can run this project locally by opening `index.html` in any modern browser.
