@@ -1,8 +1,6 @@
 # Landing Page – HTML, CSS & JavaScript
 
-## 📌 Internship Task – Web Development (TASK 1)
-
-This project is a responsive and visually appealing landing page created as part of the **Web Development Internship**.  
+This project is a responsive and visually appealing landing page created.  
 The landing page is built using **HTML, CSS, and JavaScript**, focusing on smooth animations, modern UI design, and conversion optimization.
 
 ---
@@ -49,13 +47,6 @@ You can run this project locally by opening `index.html` in any modern browser.
 - Hands-on experience with CSS animations and transitions
 - JavaScript DOM manipulation and scroll effects
 - UI/UX design principles for landing pages
-
----
-
-## 👩‍💻 Author
-
-**Bhavani**  
-Web Development Intern
 
 ---
 
