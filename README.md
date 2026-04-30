@@ -49,15 +49,6 @@ You can run this project locally by opening `index.html` in any modern browser.
 - UI/UX design principles for landing pages
 
 ---
-
-## ✅ Task Completion
-
-This project fulfills all the requirements of **TASK-1: Landing Page** as provided in the internship instructions.
-
-✔ HTML, CSS, and JavaScript used  
-✔ Smooth animations and transitions  
-✔ Conversion-focused design  
-
 ---
 
 
